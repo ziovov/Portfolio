@@ -1,2 +1,2 @@
 # Portfolio
-Here are the projects implemented by me
+Здесь находятся выполненные мной проекты
